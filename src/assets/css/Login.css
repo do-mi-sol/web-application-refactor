@@ -1,11 +1,11 @@
 .login-buttonContainer {
-    margin-top: 1000;
+  margin-top: 1000;
 }
 .login-array {
-    display: flex;
-    flex-direction: column;
-    text-align: center;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
 }
 .login-icon {
-    width: 300px;
+  width: 300px;
 }

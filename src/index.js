@@ -17,20 +17,20 @@ import Myinfo from "./screens/auth/Myinfo";
 import "./FontAwesome";
 
 ReactDOM.render(
-    <BrowserRouter>
-        <Header />
-        <Switch>
-            <Route exact path="/" component={Home} />
-            <Route exact path="/login" component={Login} />
-            <Route exact path="/signup" component={SignUp} />
-            <Route exact path="/board" component={Board} />
-            <Route exact path="/findid" component={FindID} />
-            <Route exact path="/findpw" component={FindPW} />
-            <Route exact path="/detail" component={Detail} />
-            <Route exact path="/write" component={Write} />
-            <Route exact path="/myinfo" component={Myinfo} />
-        </Switch>
-        <Footer />
-    </BrowserRouter>,
-    document.getElementById("root")
+  <BrowserRouter>
+    <Header />
+    <Switch>
+      <Route exact path="/" component={Home} />
+      <Route exact path="/login" component={Login} />
+      <Route exact path="/signup" component={SignUp} />
+      <Route exact path="/board" component={Board} />
+      <Route exact path="/findid" component={FindID} />
+      <Route exact path="/findpw" component={FindPW} />
+      <Route exact path="/detail" component={Detail} />
+      <Route exact path="/write" component={Write} />
+      <Route exact path="/myinfo" component={Myinfo} />
+    </Switch>
+    <Footer />
+  </BrowserRouter>,
+  document.getElementById("root")
 );

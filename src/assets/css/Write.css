@@ -1,224 +1,224 @@
 .contents-input-quill {
-    width: 100%;
-    height: 400px;
+  width: 100%;
+  height: 400px;
 }
 .write-background {
-    padding-top: 5%;
-    min-height: 1300px;
-    justify-content: center;
-    align-items: center;
+  padding-top: 5%;
+  min-height: 1300px;
+  justify-content: center;
+  align-items: center;
 }
 
 /*컨테이너*/
 .write-box {
-    width: 650px;
+  width: 650px;
 }
 
 .write-card-container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .write-paper {
-    padding-top: 20%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  padding-top: 20%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .write-container {
-    padding-top: 1%;
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    flex-grow: 1;
-    flex-shrink: 1;
-    justify-content: center;
-    align-items: center;
-    margin-top: 80px;
+  padding-top: 1%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  flex-grow: 1;
+  flex-shrink: 1;
+  justify-content: center;
+  align-items: center;
+  margin-top: 80px;
 }
 
 .write-input-container {
-    padding-top: 1%;
-    padding-left: 5%;
-    width: 60%;
+  padding-top: 1%;
+  padding-left: 5%;
+  width: 60%;
 
-    flex-wrap: wrap;
-    flex-direction: column;
-    flex-grow: 1;
-    flex-shrink: 1;
+  flex-wrap: wrap;
+  flex-direction: column;
+  flex-grow: 1;
+  flex-shrink: 1;
 }
 .write-picture-container {
-    width: 30%;
-    display: flex;
+  width: 30%;
+  display: flex;
 
-    flex-grow: 1;
-    flex-shrink: 1;
+  flex-grow: 1;
+  flex-shrink: 1;
 }
 
 .write-date-container {
-    padding-left: 8%;
-    padding-top: 4%;
+  padding-left: 8%;
+  padding-top: 4%;
 
-    width: 30%;
-    display: flex;
-    flex-wrap: wrap;
+  width: 30%;
+  display: flex;
+  flex-wrap: wrap;
 
-    flex-grow: 1;
-    flex-shrink: 1;
+  flex-grow: 1;
+  flex-shrink: 1;
 }
 
 .write-id-date-container {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    flex-grow: 1;
-    flex-shrink: 1;
-    padding-left: 1%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  flex-grow: 1;
+  flex-shrink: 1;
+  padding-left: 1%;
 }
 .write-button-container {
-    margin-top: 5%;
-    margin-bottom: 5%;
-    padding-left: 32%;
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    flex-grow: 1;
-    flex-shrink: 1;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  padding-left: 32%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  flex-grow: 1;
+  flex-shrink: 1;
 }
 
 /*노란선*/
 .write-yellow-line {
-    /* 크기 및 굵기 */
-    width: 87%;
-    border: solid #ffd400;
+  /* 크기 및 굵기 */
+  width: 87%;
+  border: solid #ffd400;
 
-    /* 위치(마진) 조절 */
-    margin-top: 4px;
+  /* 위치(마진) 조절 */
+  margin-top: 4px;
 
-    margin-left: 6%;
-    /* padding-right: 50px;
+  margin-left: 6%;
+  /* padding-right: 50px;
 */
-    /* 색 */
-    color: #ffd400;
+  /* 색 */
+  color: #ffd400;
 }
 .write-line1 {
-    /* 크기 및 굵기 */
-    width: 99.5%;
-    height: 2px;
-    border-style: none;
+  /* 크기 및 굵기 */
+  width: 99.5%;
+  height: 2px;
+  border-style: none;
 
-    /* 위치(마진) 조절 */
+  /* 위치(마진) 조절 */
 
-    /* padding-right: 50px;
+  /* padding-right: 50px;
 */
-    /* 색 */
-    background-color: whitesmoke;
+  /* 색 */
+  background-color: whitesmoke;
 }
 .write-line2 {
-    /* 크기 및 굵기 */
-    width: 97%;
-    height: 2px;
-    border-style: none;
+  /* 크기 및 굵기 */
+  width: 97%;
+  height: 2px;
+  border-style: none;
 
-    /* 위치(마진) 조절 */
-    margin-top: 30px;
-    margin-left: 1;
+  /* 위치(마진) 조절 */
+  margin-top: 30px;
+  margin-left: 1;
 
-    /* padding-right: 50px;
+  /* padding-right: 50px;
 */
-    /* 색 */
-    background-color: whitesmoke;
+  /* 색 */
+  background-color: whitesmoke;
 }
 /*얇은선*/
 
 /*왼쪽 사진*/
 .write-talk-input {
-    margin-top: 20px;
-    width: 100%;
-    height: 30px;
-    outline-style: none;
+  margin-top: 20px;
+  width: 100%;
+  height: 30px;
+  outline-style: none;
 }
 
 .write-talk-img {
-    margin-top: 30px;
-    width: auto;
-    height: auto;
-    max-width: 100%;
-    max-height: 100%;
-    background-size: contain;
-    object-fit: cover;
+  margin-top: 30px;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
+  background-size: contain;
+  object-fit: cover;
 }
 .write-talk_preview {
-    margin-top: 30px;
-    width: auto;
-    height: auto;
-    max-width: 1%;
-    max-height: 1%;
-    background-size: contain;
-    object-fit: cover;
+  margin-top: 30px;
+  width: auto;
+  height: auto;
+  max-width: 1%;
+  max-height: 1%;
+  background-size: contain;
+  object-fit: cover;
 }
 
 /*오른쪽 글쓰기*/
 .write-boardtext {
-    margin-top: 3%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  margin-top: 3%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .write-title-input {
-    padding-left: 1%;
-    margin-bottom: 20px;
-    /*margin-left: 5%;*/
-    width: 98%;
+  padding-left: 1%;
+  margin-bottom: 20px;
+  /*margin-left: 5%;*/
+  width: 98%;
 
-    border-radius: 10px;
-    /*padding: 5px 5px;*/
-    line-height: normal;
-    outline-style: none;
-    flex-grow: 1;
-    flex-shrink: 1;
+  border-radius: 10px;
+  /*padding: 5px 5px;*/
+  line-height: normal;
+  outline-style: none;
+  flex-grow: 1;
+  flex-shrink: 1;
 }
 .write-id-input {
-    margin-bottom: 20px;
-    /*margin-left: 5%;*/
-    width: 50%;
+  margin-bottom: 20px;
+  /*margin-left: 5%;*/
+  width: 50%;
 
-    border-radius: 10px;
-    /*padding: 5px 5px;*/
-    line-height: normal;
-    outline-style: none;
-    flex-grow: 1;
-    flex-shrink: 1;
+  border-radius: 10px;
+  /*padding: 5px 5px;*/
+  line-height: normal;
+  outline-style: none;
+  flex-grow: 1;
+  flex-shrink: 1;
 }
 .write-contents-input {
-    /*margin-left: 6.5%;
+  /*margin-left: 6.5%;
 */
-    width: 100%;
-    height: 600px;
-    border-radius: 10px;
-    padding: 5px 5px;
-    line-height: normal;
-    outline-style: none;
-    flex-grow: 1;
-    flex-shrink: 1;
+  width: 100%;
+  height: 600px;
+  border-radius: 10px;
+  padding: 5px 5px;
+  line-height: normal;
+  outline-style: none;
+  flex-grow: 1;
+  flex-shrink: 1;
 }
 
 .write-write-button {
-    width: 20px;
-    margin-left: 100%;
-    /*margin-left: 30%;
+  width: 20px;
+  margin-left: 100%;
+  /*margin-left: 30%;
     padding-left: 10%;
     border-radius: 10px;
     padding: 1px 50px;*/
 }
 .write-button {
-    margin-left: 5%;
+  margin-left: 5%;
 }
 
 .write-background {
-    background-color: #f2f2f2;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
+  background-color: #f2f2f2;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
 }

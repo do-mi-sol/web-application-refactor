@@ -1,16 +1,11 @@
 [1013/000417.423:ERROR:settings.cc(430)] Settings version is not 5
-[1013/001614.059:ERROR:directory_reader_win.cc(43)] FindFirstFile: ÁöÁ¤µÈ °æ·Î¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù. (0x3)
-[1014/001614.084:ERROR:directory_reader_win.cc(43)] FindFirstFile: ÁöÁ¤µÈ °æ·Î¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù. (0x3)
-[1014/150946.904:ERROR:directory_reader_win.cc(43)] FindFirstFile: ÁöÁ¤µÈ °æ·Î¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù. (0x3)
-[1014/185856.734:ERROR:directory_reader_win.cc(43)] FindFirstFile: ÁöÁ¤µÈ °æ·Î¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù. (0x3)
-[1014/231124.014:ERROR:directory_reader_win.cc(43)] FindFirstFile: ÁöÁ¤µÈ °æ·Î¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù. (0x3)
-[1016/180126.748:ERROR:directory_reader_win.cc(43)] FindFirstFile: ÁöÁ¤µÈ °æ·Î¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù. (0x3)
-[1017/220750.012:ERROR:directory_reader_win.cc(43)] FindFirstFile: ÁöÁ¤µÈ °æ·Î¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù. (0x3)
-<<<<<<< HEAD
-[1021/141044.704:ERROR:directory_reader_win.cc(43)] FindFirstFile: ÁöÁ¤µÈ °æ·Î¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù. (0x3)
-[1022/021706.398:ERROR:directory_reader_win.cc(43)] FindFirstFile: ÁöÁ¤µÈ °æ·Î¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù. (0x3)
-=======
-[1021/230901.810:ERROR:directory_reader_win.cc(43)] FindFirstFile: ÁöÁ¤µÈ °æ·Î¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù. (0x3)
-[1022/142110.695:ERROR:directory_reader_win.cc(43)] FindFirstFile: ÁöÁ¤µÈ °æ·Î¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù. (0x3)
->>>>>>> b90a124dcfd0cf8cff5560804bc10c899469e87f
-[1022/172043.874:ERROR:directory_reader_win.cc(43)] FindFirstFile: ÁöÁ¤µÈ °æ·Î¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù. (0x3)
+[1013/001614.059:ERROR:directory_reader_win.cc(43)] FindFirstFile: ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Î¸ï¿½ Ã£ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï´ï¿½. (0x3)
+[1014/001614.084:ERROR:directory_reader_win.cc(43)] FindFirstFile: ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Î¸ï¿½ Ã£ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï´ï¿½. (0x3)
+[1014/150946.904:ERROR:directory_reader_win.cc(43)] FindFirstFile: ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Î¸ï¿½ Ã£ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï´ï¿½. (0x3)
+[1014/185856.734:ERROR:directory_reader_win.cc(43)] FindFirstFile: ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Î¸ï¿½ Ã£ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï´ï¿½. (0x3)
+[1014/231124.014:ERROR:directory_reader_win.cc(43)] FindFirstFile: ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Î¸ï¿½ Ã£ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï´ï¿½. (0x3)
+[1016/180126.748:ERROR:directory_reader_win.cc(43)] FindFirstFile: ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Î¸ï¿½ Ã£ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï´ï¿½. (0x3)
+[1017/220750.012:ERROR:directory_reader_win.cc(43)] FindFirstFile: ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Î¸ï¿½ Ã£ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï´ï¿½. (0x3)
+[1021/141044.704:ERROR:directory_reader_win.cc(43)] FindFirstFile: ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Î¸ï¿½ Ã£ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï´ï¿½. (0x3)
+[1022/021706.398:ERROR:directory_reader_win.cc(43)] FindFirstFile: ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Î¸ï¿½ Ã£ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï´ï¿½. (0x3)
+[1022/172043.874:ERROR:directory_reader_win.cc(43)] FindFirstFile: ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Î¸ï¿½ Ã£ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï´ï¿½. (0x3)

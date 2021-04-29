@@ -1,16 +1,16 @@
 .header-container {
-    display: inline-block;
-    /* float: right; */
+  display: inline-block;
+  /* float: right; */
 }
 .sticky {
-    z-index: 100;
+  z-index: 100;
 }
 
 .header-text {
-    width: 150px;
-    display: block;
+  width: 150px;
+  display: block;
 }
 
 .header-right {
-    float: right;
+  float: right;
 }
