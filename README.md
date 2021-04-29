@@ -1,5 +1,7 @@
 # do-mi-sol : web application refactor
 
+### <br/>
+
 <div align="center">
   <img src="./src/assets/images/Logo3.png" width="350"/></br>
   <strong> 도미솔, 도움이 미친듯이 필요한 솔로 그리고 연인들 🎈 </strong>
@@ -9,8 +11,6 @@
 </div>
 
 ### <br/>
-
-###
 
 ## 🎈 Features
 
